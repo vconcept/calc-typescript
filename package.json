@@ -17,5 +17,9 @@
     "url": "https://github.com/vconcept/calc-typescript/issues"
   },
   "homepage": "https://github.com/vconcept/calc-typescript#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@types/readline-sync": "^1.4.8",
+    "readline-sync": "^1.4.10"
+  }
 }
